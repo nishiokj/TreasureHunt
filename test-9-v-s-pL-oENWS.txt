@@ -1,0 +1,20 @@
+#
+#
+#
+#
+#
+#
+#M
+#8
+#
+#L
+#M
+M
+5
+ooooo
+o.oo.
+o.$..
+o....
+@.o..
+
+# should end hunt

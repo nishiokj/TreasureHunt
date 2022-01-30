@@ -1,0 +1,25 @@
+# Treasure hunt with path length two
+#
+#
+#
+#
+#
+#
+#M
+#8
+#M
+#L
+#M
+M
+10
+........oo
+.o......$.
+..........
+#...oooooo
+#.........
+#..o......
+oooo......
+oooo......
+o....ooo.o
+@......ooo
+

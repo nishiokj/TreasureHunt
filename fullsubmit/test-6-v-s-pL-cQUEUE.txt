@@ -1,0 +1,11 @@
+M
+6
+.....$
+......
+oooooo
+oooooo
+ooo@oo
+oooooo
+
+
+# Treasure should not be found
